@@ -13,32 +13,15 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "sources/Data Streams Algorithms And Applications.md",
+                "file": "topics/Data streams.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Data Streams Algorithms And Applications"
-            }
-          },
-          {
-            "id": "6318499c3f4d689c",
-            "type": "leaf",
-            "state": {
-              "type": "pdf",
-              "state": {
-                "file": "papers/DataStreamsAlgorithmsAndApplications.pdf",
-                "page": 65,
-                "left": -13,
-                "top": 597,
-                "zoom": 1.2303921568627452
-              },
-              "icon": "lucide-file-text",
-              "title": "DataStreamsAlgorithmsAndApplications"
+              "title": "Data streams"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -100,7 +83,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 652.6312713623047
+    "width": 350.12041091918945
   },
   "right": {
     "id": "8c016ef77c035a13",
@@ -205,11 +188,11 @@
       "pdf-plus:PDF++: Toggle auto-paste": false
     }
   },
-  "active": "6318499c3f4d689c",
+  "active": "bf9aa95956bc2af0",
   "lastOpenFiles": [
-    "papers/CountMinSketch.pdf",
     "sources/Data Streams Algorithms And Applications.md",
     "papers/DataStreamsAlgorithmsAndApplications.pdf",
+    "papers/CountMinSketch.pdf",
     "papers/AdversariallyRobustStreamingAlgorithmsViaDifferentialPrivacy.pdf",
     "papers/AFrameworkForAdversarilyRobustStreamingAlgorithms.pdf",
     "papers/ApproximateMaximumMatchingInRandomStreams.pdf",
@@ -218,7 +201,6 @@
     "papers/GraphStreamAlgorithmsASurvey.pdf",
     "papers/OnGraphproblemsInASemiStreamingModel.pdf",
     "papers/StreamingAlgorithmsAndGraphConnectivity.pdf",
-    "papers/HyperLogLog.pdf",
     "topics/Data streams.md"
   ]
 }
