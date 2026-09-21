@@ -1,0 +1,224 @@
+{
+  "main": {
+    "id": "1a2479e662135166",
+    "type": "split",
+    "children": [
+      {
+        "id": "51626ac93d55d233",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "bf9aa95956bc2af0",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "sources/Data Streams Algorithms And Applications.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Data Streams Algorithms And Applications"
+            }
+          },
+          {
+            "id": "6318499c3f4d689c",
+            "type": "leaf",
+            "state": {
+              "type": "pdf",
+              "state": {
+                "file": "papers/DataStreamsAlgorithmsAndApplications.pdf",
+                "page": 65,
+                "left": -13,
+                "top": 597,
+                "zoom": 1.2303921568627452
+              },
+              "icon": "lucide-file-text",
+              "title": "DataStreamsAlgorithmsAndApplications"
+            }
+          }
+        ],
+        "currentTab": 1
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "7f70aaac4d0d560a",
+    "type": "split",
+    "children": [
+      {
+        "id": "82fecf88bd73b8ce",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "72ecae89c2718838",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
+            }
+          },
+          {
+            "id": "03237be479b0a2fe",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Search"
+            }
+          },
+          {
+            "id": "040a1040feea94d7",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 652.6312713623047
+  },
+  "right": {
+    "id": "8c016ef77c035a13",
+    "type": "split",
+    "children": [
+      {
+        "id": "72c0579fb1ace37b",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "48f1ab42c93aae6a",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks"
+            }
+          },
+          {
+            "id": "b208aca6802c95a3",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links"
+            }
+          },
+          {
+            "id": "53a9bce43fd6b8f5",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
+            }
+          },
+          {
+            "id": "e12d0f1aced1ea73",
+            "type": "leaf",
+            "state": {
+              "type": "all-properties",
+              "state": {
+                "sortOrder": "frequency",
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-archive",
+              "title": "All properties"
+            }
+          },
+          {
+            "id": "0ded7924efb598e5",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "Outline"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "bases:Create new base": false,
+      "pdf-plus:PDF++: Toggle auto-copy": false,
+      "pdf-plus:PDF++: Toggle auto-focus": false,
+      "pdf-plus:PDF++: Toggle auto-paste": false
+    }
+  },
+  "active": "6318499c3f4d689c",
+  "lastOpenFiles": [
+    "papers/CountMinSketch.pdf",
+    "sources/Data Streams Algorithms And Applications.md",
+    "papers/DataStreamsAlgorithmsAndApplications.pdf",
+    "papers/AdversariallyRobustStreamingAlgorithmsViaDifferentialPrivacy.pdf",
+    "papers/AFrameworkForAdversarilyRobustStreamingAlgorithms.pdf",
+    "papers/ApproximateMaximumMatchingInRandomStreams.pdf",
+    "papers/ApproximationAlgorithmsForMaximumMatchingInUndirectedGraphs.pdf",
+    "papers/ApproximationAlgorithmsInGraphsViaSampleComplexity.pdf",
+    "papers/GraphStreamAlgorithmsASurvey.pdf",
+    "papers/OnGraphproblemsInASemiStreamingModel.pdf",
+    "papers/StreamingAlgorithmsAndGraphConnectivity.pdf",
+    "papers/HyperLogLog.pdf",
+    "topics/Data streams.md"
+  ]
+}
