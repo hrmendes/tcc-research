@@ -6,41 +6,28 @@
       {
         "id": "c0cfc6c8d7171a1b",
         "type": "tabs",
+        "dimension": 37.68488745980708,
         "children": [
           {
-            "id": "bf9aa95956bc2af0",
+            "id": "90779145441fc945",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "topics/Data streams.md",
+                "file": "topics/Data Streams Foundations.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Data streams"
-            }
-          },
-          {
-            "id": "2f84a358b3709876",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "topics/Data streams.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Data streams"
+              "title": "Data Streams Foundations"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       },
       {
         "id": "51626ac93d55d233",
         "type": "tabs",
+        "dimension": 62.31511254019293,
         "children": [
           {
             "id": "534b206aaa0bb939",
@@ -49,10 +36,10 @@
               "type": "pdf",
               "state": {
                 "file": "papers/DataStreamsAlgorithmsAndApplications.pdf",
-                "page": 16,
-                "left": 19,
-                "top": 52,
-                "zoom": 1
+                "page": 19,
+                "left": -17,
+                "top": 326,
+                "zoom": 0.857843137254902
               },
               "icon": "lucide-file-text",
               "title": "DataStreamsAlgorithmsAndApplications"
@@ -120,8 +107,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 350.12041091918945,
-    "collapsed": true
+    "width": 350.12041091918945
   },
   "right": {
     "id": "8c016ef77c035a13",
@@ -227,9 +213,10 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "2f84a358b3709876",
+  "active": "90779145441fc945",
   "lastOpenFiles": [
     "papers/DataStreamsAlgorithmsAndApplications.pdf",
+    "topics/Data Streams Foundations.md",
     "topics/Data streams.md",
     "sources/Data Streams Algorithms And Applications.md",
     "topics/Data Stream Models.md",
