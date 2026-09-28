@@ -4,41 +4,21 @@
     "type": "split",
     "children": [
       {
-        "id": "c0cfc6c8d7171a1b",
+        "id": "4d76e84ba613725c",
         "type": "tabs",
-        "dimension": 37.68488745980708,
         "children": [
           {
-            "id": "90779145441fc945",
+            "id": "e80c18bfb8892f61",
             "type": "leaf",
             "state": {
-              "type": "graph",
-              "state": {},
-              "icon": "lucide-git-fork",
-              "title": "Graph view"
-            }
-          }
-        ]
-      },
-      {
-        "id": "51626ac93d55d233",
-        "type": "tabs",
-        "dimension": 62.31511254019293,
-        "children": [
-          {
-            "id": "534b206aaa0bb939",
-            "type": "leaf",
-            "state": {
-              "type": "pdf",
+              "type": "markdown",
               "state": {
-                "file": "papers/DataStreamsAlgorithmsAndApplications.pdf",
-                "page": 19,
-                "left": -17,
-                "top": 326,
-                "zoom": 0.857843137254902
+                "file": "topics/Coloring with streaming.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "lucide-file-text",
-              "title": "DataStreamsAlgorithmsAndApplications"
+              "icon": "lucide-file",
+              "title": "Coloring with streaming"
             }
           }
         ]
@@ -103,7 +83,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 350.12041091918945
+    "width": 524.8691215515137
   },
   "right": {
     "id": "8c016ef77c035a13",
@@ -209,19 +189,23 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "90779145441fc945",
+  "active": "e80c18bfb8892f61",
   "lastOpenFiles": [
-    "topics/Data Streams Foundations.md",
-    "papers/DataStreamsAlgorithmsAndApplications.pdf",
-    "topics/Data streams.md",
     "sources/Data Streams Algorithms And Applications.md",
-    "topics/Data Stream Models.md",
+    "papers/ApproximationAlgorithmsForMaximumMatchingInUndirectedGraphs.pdf",
     "papers/CountMinSketch.pdf",
     "papers/AdversariallyRobustStreamingAlgorithmsViaDifferentialPrivacy.pdf",
     "papers/AFrameworkForAdversarilyRobustStreamingAlgorithms.pdf",
     "papers/ApproximateMaximumMatchingInRandomStreams.pdf",
-    "papers/ApproximationAlgorithmsForMaximumMatchingInUndirectedGraphs.pdf",
     "papers/ApproximationAlgorithmsInGraphsViaSampleComplexity.pdf",
+    "topics/Triangle Counting with streaming.md",
+    "topics/Coloring with streaming.md",
+    "topics/Vertex cover or max matching with streaming.md",
+    "arguments/Thesis ideas.md",
+    "papers/DataStreamsAlgorithmsAndApplications.pdf",
+    "topics/Data Streams Foundations.md",
+    "topics/Data streams.md",
+    "topics/Data Stream Models.md",
     "papers/GraphStreamAlgorithmsASurvey.pdf",
     "papers/OnGraphproblemsInASemiStreamingModel.pdf",
     "papers/StreamingAlgorithmsAndGraphConnectivity.pdf"
