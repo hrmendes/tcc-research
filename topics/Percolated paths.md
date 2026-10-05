@@ -1,0 +1,1 @@
+A percolated path is a shortest path between a pair of nodes, where the source is percolated (infected). The target node can be either pecolated or non-percolated, or perhaps even in a partially percolated state.
