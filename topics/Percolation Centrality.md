@@ -31,10 +31,12 @@ What if i wanted to build an algorithm to calculate current percolation centrali
 
 I could count the shortest paths $\sigma$ using one dijkstra per node, which is $\mathcal{O}(VE\log V)$ and then running the naive $\mathcal{O}(V^2)$ loop for each vertex to calculate their percolation, which is $\mathcal{O}(VE\log V + V^3)$.
 
-Dijkstra builds a DAG, so perhaps there is an optimization using this DAG to make it faster
+Dijkstra builds a DAG, so perhaps there is an optimization using this DAG to make it faster, but that is not the focus here
 
 The main difference to betweeness centrality is that betweeness does not consider node states, active or inactive nodes, it is defined as
 
 $$
 BC(v) = \frac{1}{(n-1)(n-2)}\sum_{s\ne v\ne r}\frac{\sigma_{s,r}(v)}{\sigma_{s,r}}
 $$
+
+The $\frac{1}{(n-1)(n-2)}$  factor is for normalization, it corresponds to how many ordered pairs of vertices we can pick from $n$ vertices, avoiding $v$, this brings the value $BC(v)$ to the interval $[0,1]$ 
