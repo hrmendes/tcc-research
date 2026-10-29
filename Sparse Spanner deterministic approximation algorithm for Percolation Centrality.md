@@ -23,3 +23,10 @@ $$
 x = b
 $$
 So $x$ is a constant, and therefore we have $V^{\frac{1}{\log V}}$ = $O(1)$ , so, in the end, the spanner that uses $k = \log V$ will use $O(V^{1 + \frac{1}{\log V}}) = O(V)$ memory.
+
+Then in the data stream context, we would update the saved edges each time a new edge gets inserted.
+This approach describes a deterministic $\log V$ approximation algorithm for [[Percolation Centrality]], because the shortest paths themselves are approximated, and edge choice is deterministic.
+
+There is room still for 2 paths from here.
+One would be to try to find a constant deterministic approximation, or prove that such a thing does not exist, perhaps we are at a lower bound.
+Other one would be to try to find a probabilistic constant approximation, if the deterministic version ends up being impossible.

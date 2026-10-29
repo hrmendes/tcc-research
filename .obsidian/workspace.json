@@ -15,8 +15,8 @@
               "state": {
                 "file": "papers/SparseSpanners.pdf",
                 "page": 3,
-                "left": -4,
-                "top": 162,
+                "left": 12,
+                "top": 262,
                 "zoom": 1.5
               },
               "icon": "lucide-file-text",
@@ -227,11 +227,11 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "af6a2d8402b1fef3",
+  "active": "d92fc9960b68fa43",
   "lastOpenFiles": [
+    "papers/SparseSpanners.pdf",
     "Sparse Spanner deterministic approximation algorithm for Percolation Centrality.md",
     "topics/Sparse Spanners.md",
-    "papers/SparseSpanners.pdf",
     "topics/Percolation State.md",
     "topics/Percolation Centrality.md",
     "arguments/Percolation in Data Streams.md",
